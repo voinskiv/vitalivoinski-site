@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Vitali Voinski - AI & Automation Advisor",
-  description: "Helping businesses leverage AI to automate workflows and scale smarter.",
+  title: "Vitali Voinski - Operations Consultant",
+  description: "Operations Consultant for industry & logistics. I help mid-sized companies stabilize operations, strengthen workforce performance, and achieve double-digit efficiency gains.",
 };
 
 export default function RootLayout({
