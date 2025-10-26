@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="flex flex-col items-center justify-center min-h-screen px-4">
+    <main className="flex flex-col items-center justify-center min-h-screen px-4 py-8">
       <div className="max-w-2xl w-full text-left">
         <h1 className="text-3xl font-semibold">Vitali Voinski</h1>
         <p className="mt-2 text-xl font-normal">
